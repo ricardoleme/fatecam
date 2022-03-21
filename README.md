@@ -4,9 +4,6 @@
 Projeto utilizado nas aulas de Programação para Dispositivos Móveis na FATEC Itu. (Faculdade de Tecnologia Dom Amaury Castanho).  
 A Fatec Itu é uma faculdade pública e gratuita do Centro Paula Souza, órgão pertencente ao Governo do Estado de São Paulo. 
 
-
-```
-
 ## Clonando o projeto 
 ```
 git clone https://github.com/ricardoleme/fatecam
